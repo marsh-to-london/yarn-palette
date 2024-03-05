@@ -2081,3 +2081,10 @@ var FINULLGARN = [['4115', 'img/finullgarn/4115.png', [213, 210, 111]],
   ['Gold',
   'img/scspecialaran/52b081cb-4126-4ef3-b355-dce840a85d23.jpg',
   [226, 147, 30]]];
+
+  var DROPSSNOW = [['01 Off White',
+ 'img/dropsSnow/01.jpg',
+ [239, 231, 221]],
+ ['102 Marshmallow',
+ 'img/dropsSnow/01.jpg',
+ [238, 222, 205]]];                 
