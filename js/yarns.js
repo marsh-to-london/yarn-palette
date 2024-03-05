@@ -2082,9 +2082,19 @@ var FINULLGARN = [['4115', 'img/finullgarn/4115.png', [213, 210, 111]],
   'img/scspecialaran/52b081cb-4126-4ef3-b355-dce840a85d23.jpg',
   [226, 147, 30]]];
 
-  var DROPSSNOW =   [['01 Off White',
+  var DROPSSNOW =  [['01 Off White',
   'img/dropsSnow/01.jpg',
   [239, 231, 221]],
   ['102 Marshmallow',
   'img/dropsSnow/102.jpg',
-  [238, 22, 205]]];
+  [238, 222, 205]],
+  ['88 Chalk',
+  'img/dropsSnow/88.jpg',
+  [225, 219, 209]],
+  ['53 Light Gray',
+  'img/dropsSnow/53.jpg',
+  [189, 184, 176]],
+  ['46 Medium Gray',
+  'img/dropsSnow/46.jpg',
+  [127, 127, 122]]];
+  
