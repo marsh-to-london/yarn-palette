@@ -220,3 +220,13 @@
       [28, 25, 26]
     ]
   ];
+  var PAINTBOXCOTTONDK = [
+    ['401 Paper White',
+      'img/paintboxCottonDK/401.jpg',
+      [234, 234, 236]
+    ],
+    ['402 Pure Black',
+      'img/paintboxCottonDK/402.jpg',
+      [28, 27, 31]
+    ],
+  ];
