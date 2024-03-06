@@ -2129,4 +2129,7 @@ var FINULLGARN = [['4115', 'img/finullgarn/4115.png', [213, 210, 111]],
   [247, 220, 142]],
   ['24 Yellow',
   'img/dropsSnow/24.jpg',
-  [250, 191, 64]]];            
+  [250, 191, 64]],
+  ['85 Curry',
+  'img/dropsSnow/85.jpg',
+  [204, 153, 32]]];            
