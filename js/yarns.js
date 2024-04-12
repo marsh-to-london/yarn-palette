@@ -729,3 +729,199 @@ var PAINTBOXCOTTONARAN = [
     [187, 173, 163]
   ]
 ];
+
+PAINTBOXWOOLMIXSUPERCHUNKY = [
+  ['900 Paper White',
+    'img/paintboxCottonDK/401.jpg',
+    [234, 234, 236]
+  ],
+  ['901 Pure Black',
+    'img/paintboxCottonDK/402.jpg',
+    [28, 27, 31]
+  ],
+  ['902 Champagne White',
+    'img/paintboxCottonDK/403.jpg',
+    [235, 227, 224]
+  ],
+  ['903 Misty Grey',
+    'img/paintboxCottonDK/404.jpg',
+    [208, 202, 204]
+  ],
+  ['904 Stormy Grey',
+    'img/paintboxCottonDK/405.jpg',
+    [203, 197, 203]
+  ],
+  ['905 Slate Grey',
+    'img/paintboxCottonDK/406.jpg',
+    [120, 116, 117]
+  ],
+  ['906 Granite Grey',
+    'img/paintboxCottonDK/407.jpg',
+    [73, 71, 77]
+  ],
+  ['907 Vanilla Cream',
+    'img/paintboxCottonDK/408.jpg',
+    [230, 215, 202]
+  ],
+  ['908 Light Caramel',
+    'img/paintboxCottonDK/409.jpg',
+    [235, 206, 178]
+  ],
+  ['909 Soft Fudge',
+    'img/paintboxCottonDK/410.jpg',
+    [184, 136, 107]
+  ],
+  ['910 Coffee Bean',
+    'img/paintboxCottonDK/411.jpg',
+    [115, 73, 56]
+  ],
+  ['913 Rose Red',
+    'img/paintboxCottonDK/414.jpg',
+    [228, 16, 45]
+  ],
+  ['914 Pillar Red',
+    'img/paintboxCottonDK/415.jpg',
+    [212, 13, 49]
+  ],
+  ['915 Red Wine',
+    'img/paintboxCottonDK/416.jpg',
+    [146, 10, 40]
+  ],
+  ['919 Blood Orange',
+    'img/paintboxCottonDK/420.jpg',
+    [249, 94, 25]
+  ],
+  ['920 Banana Cream',
+    'img/paintboxCottonDK/421.jpg',
+    [216, 205, 179]
+  ],
+  ['921 Daffodil Yellow',
+    'img/paintboxCottonDK/422.jpg',
+    [195, 158, 77]
+  ],
+  ['922 Buttercup Yellow',
+    'img/paintboxCottonDK/423.jpg',
+    [251, 191, 23]
+  ],
+  ['923 Mustard Yellow',
+    'img/paintboxCottonDK/424.jpg',
+    [253, 189, 62]
+  ],
+  ['924 Pistachio Green',
+    'img/paintboxCottonDK/425.jpg',
+    [197, 199, 182]
+  ],
+  ['925 Spearmint Green',
+    'img/paintboxCottonDK/426.jpg',
+    [98, 189, 137]
+  ],
+  ['926 Slate Green',
+    'img/paintboxCottonDK/427.jpg',
+    [16, 94, 84]
+  ],
+  ['927 Racing Green',
+    'img/paintboxCottonDK/428.jpg',
+    [33, 62, 43]
+  ],
+  ['928 Lime Green',
+    'img/paintboxCottonDK/429.jpg',
+    [187, 204, 86]
+  ],
+  ['929 Grass Green',
+    'img/paintboxCottonDK/430.jpg',
+    [58, 175, 102]
+  ],
+  ['931 Seafoam Blue',
+    'img/paintboxCottonDK/432.jpg',
+    [211, 217, 221]
+  ],
+  ['932 Washed Teal',
+    'img/paintboxCottonDK/433.jpg',
+    [187, 216, 220]
+  ],
+  ['933 Marine Blue',
+    'img/paintboxCottonDK/434.jpg',
+    [38, 184, 202]
+  ],
+  ['934 Kingfisher Blue',
+    'img/paintboxCottonDK/435.jpg',
+    [9, 88, 133]
+  ],
+  ['935 Duck Egg Blue',
+    'img/paintboxCottonDK/436.jpg',
+    [207, 216, 222]
+  ],
+  ['936 Dolphin Blue',
+    'img/paintboxCottonDK/437.jpg',
+    [89, 121, 159]
+  ],
+  ['937 Midnight Blue',
+    'img/paintboxCottonDK/438.jpg',
+    [33, 34, 61]
+  ],
+  ['939 Sailor Blue',
+    'img/paintboxCottonDK/440.jpg',
+    [27, 57, 114]
+  ],
+  ['940 Royal Blue',
+    'img/paintboxCottonDK/441.jpg',
+    [33, 36, 90]
+  ],
+  ['941 Dusty Rose',
+    'img/paintboxCottonDK/442.jpg',
+    [218, 200, 218]
+  ],
+  ['942 Tea Rose',
+    'img/paintboxCottonDK/443.jpg',
+    [202, 146, 188]
+  ],
+  ['943 Raspberry Pink',
+    'img/paintboxCottonDK/444.jpg',
+    [175, 65, 109]
+  ],
+  ['945 Pale Lilac',
+    'img/paintboxCottonDK/446.jpg',
+    [165, 166, 207]
+  ],
+  ['946 Dusty Lilac',
+    'img/paintboxCottonDK/447.jpg',
+    [124, 106, 155]
+  ],
+  ['947 Pansy Purple',
+    'img/paintboxCottonDK/448.jpg',
+    [94, 65, 116]
+  ],
+  ['948 Dark Aubergine',
+    'img/paintboxCottonDK/449.jpg',
+    [47, 27, 53]
+  ],
+  ['949 Candyfloss Pink',
+    'img/paintboxCottonDK/450.jpg',
+    [186, 147, 153]
+  ],
+  ['950 Bubblegum Pink',
+    'img/paintboxCottonDK/451.jpg',
+    [245, 129, 153]
+  ],
+  ['951 Lipstick Pink',
+    'img/paintboxCottonDK/452.jpg',
+    [222, 59, 86]
+  ],
+  ['952 Ballet Pink',
+    'img/paintboxCottonDK/453.jpg',
+    [243, 225, 225]
+  ],
+  ['953 Blush Pink',
+    'img/paintboxCottonDK/454.jpg',
+    [239, 185, 188]
+  ],
+  ['954 Peach Orange',
+    'img/paintboxCottonDK/455.jpg',
+    [249, 200, 169]
+  ],
+  ['955 Vintage Pink',
+    'img/paintboxCottonDK/456.jpg',
+    [238, 137, 111]
+  ]
+];
+
