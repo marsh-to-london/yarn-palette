@@ -730,7 +730,7 @@ var PAINTBOXCOTTONARAN = [
   ]
 ];
 
-PAINTBOXWOOLMIXSUPERCHUNKY = [
+var PAINTBOXWOOLMIXSUPERCHUNKY = [
   ['900 Paper White',
     'img/paintboxCottonDK/401.jpg',
     [234, 234, 236]
